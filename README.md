@@ -47,7 +47,7 @@ src/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/library-management-system-react.git
+git clone https://github.com/Abhrankan-Chakrabarti/library-management-system-react.git
 ```
 
 Navigate to the project directory:
