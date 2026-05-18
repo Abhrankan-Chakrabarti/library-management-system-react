@@ -42,6 +42,12 @@ src/
 
 ---
 
+## 📄 Specification
+
+This project is based on the original academic specification in `SPECIFICATION.md`, which defines the book/member/issue schema, issue/fine rules, and system behavior.
+
+---
+
 ## ⚙️ Installation
 
 Clone the repository:
